@@ -1,0 +1,9 @@
+[package]
+name = "dwallet-node"
+version = "0.1.0"
+description = "dWallet Native Blockchain Node"
+authors = ["dWallet Team"]
+edition = "2021"
+license = "Apache-2.0"
+
+[dependencies]
